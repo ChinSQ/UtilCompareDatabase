@@ -26,7 +26,7 @@
         "host"=>"127.0.0.1",
         "port"=>"3306",
         "username"=>"yun",
-        "password"=>"EyLYLe7yxtnZcXMJ",
+        "password"=>"EyLYLe7yxtnxMJ",
         "database"=>"yun",
         "charset"=>"utf8"
     ],
@@ -36,7 +36,7 @@
         "host"=>"127.0.0.1",
         "port"=>"3306",
         "username"=>"w7",
-        "password"=>"aeRHX8wFa8Z53Cix",
+        "password"=>"aeRHX8wFa8xix",
         "database"=>"w7",
         "charset"=>"utf8"
     ],
@@ -55,3 +55,19 @@ $prefixA  = 'ims_ybsc_';   // 数据库A 过滤表前缀
 $prefixB  = 'ims_ybsc_';   // 数据库B 过滤表前缀
 $showMode = SHOW_ALL;      // 显示模式
 ```
+
+## 如果有疑问，欢迎加入群和大家一起交流
+
+
+#### 如果我您你有帮助，可以考虑捐赠一下小弟呗，老穷了!
+
+> 捐赠记得附带 捐赠备注，我会在文档中更新
+
+> @微惠云小程序 https://m.weihuiyun.net/
+
+
+
+
+
+
+
