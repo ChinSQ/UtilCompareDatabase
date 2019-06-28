@@ -6,7 +6,7 @@
 
 ## 查看演示
 
-![image](https://github.com/ChinSQ/UtilCompareDatabase/1.png?raw=true)
+![image](https://github.com/ChinSQ/UtilCompareDatabase/blob/master/1.png?raw=true)
 
 ## 如何部署
 
@@ -61,13 +61,14 @@ $showMode = SHOW_ALL;      // 显示模式
 
 ## 如果有疑问，欢迎加入群和大家一起交流
 
+<img src="https://github.com/ChinSQ/UtilCompareDatabase/blob/master/qrcode.png?raw=true" width="300px" />
 
 #### 如果我您你有帮助，可以考虑捐赠一下小弟呗，老穷了!
 
 > 捐赠记得附带 捐赠备注，我会在文档中更新
 
-<img src="https://github.com/ChinSQ/UtilCompareDatabase/wxpay.jpg?raw=true" width="300px" />
-<img src="https://github.com/ChinSQ/UtilCompareDatabase/alipay.jpg?raw=true" width="300px" />
+<img src="https://github.com/ChinSQ/UtilCompareDatabase/blob/master/wxpay.jpg?raw=true" width="300px" />
+<img src="https://github.com/ChinSQ/UtilCompareDatabase/blob/master/alipay.jpg?raw=true" width="300px" />
 
 > @微惠云小程序 https://m.weihuiyun.net/
 
