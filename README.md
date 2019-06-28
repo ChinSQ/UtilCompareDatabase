@@ -4,6 +4,9 @@
 
 > 但是如果数据库已经部署到线上客户正在使用的情况下，那么我们只能用某些工具去对比差异，就我这个消息不通的技术渣来说，很经常，百度谷歌都找不到工具，所以我就写了这个，如果喜欢请支持我！！！
 
+## 查看演示
+
+![image](https://github.com/ChinSQ/UtilCompareDatabase/1.png?raw=true)
 
 ## 如何部署
 
@@ -62,6 +65,9 @@ $showMode = SHOW_ALL;      // 显示模式
 #### 如果我您你有帮助，可以考虑捐赠一下小弟呗，老穷了!
 
 > 捐赠记得附带 捐赠备注，我会在文档中更新
+
+<img src="https://github.com/ChinSQ/UtilCompareDatabase/wxpay.jpg?raw=true" width="300px" />
+<img src="https://github.com/ChinSQ/UtilCompareDatabase/alipay.jpg?raw=true" width="300px" />
 
 > @微惠云小程序 https://m.weihuiyun.net/
 
